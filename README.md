@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40,50&height=200&section=header&text=KENNY%20JOSIAH&fontSize=42&fontAlign=50&fontAlignY=40&animation=twinkling&desc=%E2%9A%A1%20Full-Stack%20%26%20AI%20Developer%20%E2%9A%A1&descSize=18&descAlign=50&descAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40,50&height=200&section=header&text=KENNY%20JOSIAH&fontSize=42&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full-Stack%20and%20AI%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=68" width="100%"/>
 
   <br/><br/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer+%7C+AI+Explorer;Building+Smart+Bots+%26+Next-Gen+Web+Apps;Specialized+in+Node.js%2C+Python+%26+Gemini+AI;Welcome+to+my+Digital+Workspace!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer+%7C+AI+Explorer;Building+Smart+Bots+and+Next-Gen+Web+Apps;Specialized+in+Node.js%2C+Python+and+Gemini+AI;Welcome+to+my+Digital+Workspace!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -30,8 +30,8 @@
       <h3 align="left">⚡ System Info / About Me</h3>
       <p>Hello! I'm <b>Kenny Josiah</b> (<code>@kensmoba</code>), a passionate developer crafting modern web experiences and intelligent AI solutions.</p>
       <ul>
-        <li>🔭 <b>Currently Building:</b> AI Chatbots with <code>Gemini API</code> & Web Apps</li>
-        <li>🌱 <b>Learning & Exploring:</b> Advanced Agentic AI & Enterprise Systems</li>
+        <li>🔭 <b>Currently Building:</b> AI Chatbots with <code>Gemini API</code> and Web Apps</li>
+        <li>🌱 <b>Learning & Exploring:</b> Advanced Agentic AI and Enterprise Systems</li>
         <li>💬 <b>Ask me about:</b> JavaScript, Python, Node.js, and Odoo</li>
         <li>⚡ <b>Fun Fact:</b> I enjoy turning complex ideas into clean, functional code!</li>
       </ul>

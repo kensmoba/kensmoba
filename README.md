@@ -1,26 +1,33 @@
 <div align="center">
 
-  <!-- Minimalist High-Tech Typing Header -->
+  <!-- Animated Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40,50&height=190&section=header&text=KENNY%20JOSIAH&fontSize=42&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20and%20AI%20Software%20Engineer&descSize=16&descAlign=50&descAlignY=65" width="100%"/>
+
+  <br/><br/>
+
+  <!-- Sci-Fi Animated Typing Text -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=%3E+KENNY+JOSIAH;%3E+FULL-STACK+%2B+AI+DEVELOPER;%3E+BUILDING+NEXT-GEN+WEB+APPS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=45&lines=%E2%9A%A1+KENNY+JOSIAH+%E2%9A%A1;%3E+AI+%2B+FULL-STACK+ENGINEER;%3E+BUILDING+NEXT-GEN+WEB+APPS;%3E+WELCOME+TO+MY+3D+SPACE!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <!-- Compact Badges -->
+  <br/><br/>
+
+  <!-- Tech Badges -->
   <p align="center">
-    <a href="https://github.com/kensmoba?tab=followers"><img src="https://img.shields.io/github/followers/kensmoba?style=flat-square&color=00F2FE&labelColor=0D1117&logo=github" alt="Followers"/></a>
-    <a href="https://github.com/kensmoba?tab=repositories"><img src="https://img.shields.io/badge/repos-4_public-4FACFE?style=flat-square&labelColor=0D1117&logo=git" alt="Repos"/></a>
-    <a href="https://github.com/kensmoba"><img src="https://img.shields.io/github/stars/kensmoba?style=flat-square&color=6B11FF&labelColor=0D1117&logo=apachespark" alt="Stars"/></a>
+    <a href="https://github.com/kensmoba?tab=followers"><img src="https://img.shields.io/github/followers/kensmoba?style=for-the-badge&color=00F2FE&labelColor=0D1117&logo=github" alt="Followers"/></a>
+    <a href="https://github.com/kensmoba?tab=repositories"><img src="https://img.shields.io/badge/Repos-4%20Public-4FACFE?style=for-the-badge&labelColor=0D1117&logo=git" alt="Repos"/></a>
+    <a href="https://github.com/kensmoba"><img src="https://img.shields.io/github/stars/kensmoba?style=for-the-badge&color=6B11FF&labelColor=0D1117&logo=apachespark" alt="Stars"/></a>
   </p>
 
 </div>
 
 <br/>
 
-<!-- System Info & Tech Stack (Single Unified Section) -->
+<!-- System Specs & Tech Stack -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><code>$ cat about_me.json</code></h4>
+      <h4><code>⚡ $ cat about_me.json</code></h4>
       <pre><code>{
   "developer": "Kenny Josiah",
   "alias": "@kensmoba",
@@ -30,7 +37,7 @@
 }</code></pre>
     </td>
     <td width="50%" valign="top">
-      <h4><code>$ cat tech_stack.sys</code></h4>
+      <h4><code>⚙️ $ cat tech_stack.sys</code></h4>
       <br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,py,nodejs,express,react,tailwind,html,css,git,github,vscode,postman,docker,linux&perline=7&theme=dark" alt="Tech Stack" />
@@ -41,7 +48,7 @@
 
 <br/>
 
-<!-- Featured Repositories Grid -->
+<!-- Featured Projects -->
 <div align="center">
   <h3>⚡ Featured Projects</h3>
   <br/>
@@ -80,28 +87,47 @@
 
 <br/>
 
-<!-- GitHub Analytics & Streak -->
+<!-- 3D Isometric Contribution Graph & Live Activity Stats -->
 <div align="center">
-  <h3>📊 Activity & Contribution Matrix</h3>
+  <h3>🧊 3D Contribution Matrix & Activity Stats</h3>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=kensmoba&theme=tokyonight&hide_border=true" width="95%"/>
+  
+  <!-- 3D Isometric Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kensmoba/kensmoba/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kensmoba/kensmoba/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://raw.githubusercontent.com/kensmoba/kensmoba/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="95%"/>
+  </picture>
+
   <br/><br/>
-  <img src="https://ghchart.rshah.org/00f2fe/kensmoba" alt="Contributions Matrix" width="95%"/>
+
+  <!-- Live Streak Counter -->
+  <img src="https://streak-stats.demolab.com/?user=kensmoba&theme=tokyonight&hide_border=true" width="95%"/>
+
+  <br/><br/>
+
+  <!-- Smooth Activity Wave -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kensmoba&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 </div>
 
 <br/>
 
-<!-- Social Links -->
+<!-- Animated Waving Footer & Socials -->
 <div align="center">
   <p>
     <a href="https://github.com/kensmoba">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:kennyjosiah@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40,50&height=120&section=footer" width="100%"/>
 </div>
